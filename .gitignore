@@ -1,0 +1,26 @@
+﻿# R history and data files
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Renviron
+
+# RStudio files
+.Rproj.user/
+
+# Knitr and markdown cache
+*_cache/
+*.utf8.md
+*.knit.md
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Nn]onprofit.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
